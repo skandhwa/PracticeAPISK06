@@ -1,0 +1,17 @@
+{
+    "name": "Tom",
+    "job": "Leader",
+    "salary": 45000.0,
+    "location": "Delhi",
+    "bankAccount": [
+        "SBI",
+        "HDFC",
+        "AXIS"
+    ],
+    "empaddress": {
+        "street": "Parkstreet",
+        "city": "Delhi",
+        "pincode": 700033,
+        "state": "NCR"
+    }
+}
