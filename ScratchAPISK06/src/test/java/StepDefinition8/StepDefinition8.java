@@ -67,7 +67,7 @@ public class StepDefinition8 {
 		
 		response=	res.when().post(endpoint).then().log().all().spec(respec).extract().response();
 
-		System.out.println("My dummy code");
+		System.out.println("My new dummy code");
 		
 	    
 	}
